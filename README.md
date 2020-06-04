@@ -1,4 +1,4 @@
-# cisco_networking_academy
+# Сisco networking academy. Laboratory works.
 
 ## Lab №1
 ### Switch Configuration.
