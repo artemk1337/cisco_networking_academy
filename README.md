@@ -25,8 +25,6 @@
 
 1. Connect the switches according to the diagram.
 
-2. LR2 - Scheme.png
-
 3. Perform the initial setup of the switch.
 
 4. Configure the switches with IP addresses in the range specified by the instructor. The VLAN number is also determined by the teacher.
@@ -62,8 +60,6 @@
 1. Create vlan <Your List Number>. Include ports 7 through 10 in it. Remove this vlan. Check what Vlan ports 7 through 10 are in. 1. 1. Restore the configuration.
 
 1. Connect the switches according to the diagram:
-
-1. LR3 - Scheme.png
 
 1. Get instructions from the teacher on virtual network numbers and the distribution of network nodes (computers) by vlan. Before setting up the switches, develop an IP addressing scheme for network devices and check with your teacher.
 
